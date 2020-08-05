@@ -1,0 +1,1 @@
+This is Shura's first git project
